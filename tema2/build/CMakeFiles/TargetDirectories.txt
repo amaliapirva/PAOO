@@ -1,0 +1,3 @@
+/home/amalia/Tema2/build/CMakeFiles/Tema2.dir
+/home/amalia/Tema2/build/CMakeFiles/edit_cache.dir
+/home/amalia/Tema2/build/CMakeFiles/rebuild_cache.dir
