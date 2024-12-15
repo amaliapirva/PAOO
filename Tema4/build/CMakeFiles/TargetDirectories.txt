@@ -1,0 +1,3 @@
+/home/kris/Desktop/Amalia/build/CMakeFiles/Tema4.dir
+/home/kris/Desktop/Amalia/build/CMakeFiles/edit_cache.dir
+/home/kris/Desktop/Amalia/build/CMakeFiles/rebuild_cache.dir
